@@ -1,16 +1,21 @@
-## Hi there 👋
+Your Name Here
+Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
+About Me
+Write 3–5 sentences about yourself here. Include your course, your college, what you enjoy building, and one fun fact.
 
-<!--
-**anjaliyadav32607-create/anjaliyadav32607-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Skill	Level
+Python	Beginner
+Git & GitHub	Beginner
+Markdown	Beginner
+Add more...	...
+Current Projects
+Grade Buddy — a command-line app that tracks test scores and generates a report card.
+GitHub Profile — this very page, my first Markdown website.
+Add more if you have them...
+Goals
+What do you want to learn next? (be specific — e.g. "learn Python file I/O")
+What project do you want to build?
+Any other goal...
+Find Me
+LinkedIn · Email
